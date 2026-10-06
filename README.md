@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 NexCodeStudioss
+# NexCode Studios
 
 ### FiveM Developer • Lua Developer • Server Developer
 
