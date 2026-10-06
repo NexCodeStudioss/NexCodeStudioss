@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NexCodeStudioss/NexCodeStudioss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ NexCodeStudioss
 
-Here are some ideas to get you started:
+### `Code. Create. Innovate.`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Software Developer · 🚀 Builder · 🧠 Problem Solver
+
+<p>
+  <a href="https://github.com/NexCodeStudioss">
+    <img src="https://img.shields.io/badge/GitHub-NexCodeStudioss-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **NexCodeStudioss**, a programmer focused on building software,
+web applications and useful digital projects.
+
+I enjoy turning ideas into functional code, learning new technologies
+and improving my skills through real-world projects.
+
+```text
+> Building projects
+> Learning new technologies
+> Solving problems
+> Writing clean & maintainable code
