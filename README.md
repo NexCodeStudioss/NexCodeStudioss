@@ -1,34 +1,35 @@
 <div align="center">
 
-# ⚡ NexCodeStudioss
+# 🎮 NexCodeStudioss
 
-### `Code. Create. Innovate.`
+### FiveM Developer • Lua Developer • Server Developer
 
-💻 Software Developer · 🚀 Builder · 🧠 Problem Solver
+`Creating scripts. Building servers. Making ideas playable.`
 
 <p>
-  <a href="https://github.com/NexCodeStudioss">
-    <img src="https://img.shields.io/badge/GitHub-NexCodeStudioss-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:TU_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/FiveM-F5A800?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **NexCodeStudioss**, a programmer focused on building software,
-web applications and useful digital projects.
+🎮 I'm **NexCodeStudioss**, a **FiveM Developer** focused on creating
+scripts, systems and resources for GTA V roleplay servers.
 
-I enjoy turning ideas into functional code, learning new technologies
-and improving my skills through real-world projects.
+I enjoy turning ideas into functional and optimized FiveM resources,
+with a focus on performance, usability and clean code.
 
 ```text
-> Building projects
-> Learning new technologies
-> Solving problems
-> Writing clean & maintainable code
+> FiveM Development
+> Lua Scripting
+> Server Systems
+> NUI Interfaces
+> Optimization
+> Custom Resources
